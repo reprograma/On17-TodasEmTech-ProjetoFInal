@@ -44,3 +44,6 @@ Agora, o desafio é criar um projeto com a sua cara, para mostrar o que você ap
 <h4>LET'S CODE? </h4>
 
 ![Desenho de uma menina programando](https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif)
+
+<h3> Planilha para inclusão dos projetos </h3>
+https://docs.google.com/spreadsheets/d/1adgtHTa8V-wPhmVjFq9-IcaRPMCSSeduTlyKBCXl768/edit#gid=0
